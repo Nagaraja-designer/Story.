@@ -1,0 +1,2 @@
+Following commands are being used in git 
+
